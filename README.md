@@ -1,5 +1,4 @@
-# Puppy-Restaurant
-Challenge #3 - Puppy Restaurant
+# Challenge #3 - Puppy Restaurant
 
 Team Members
 ---------------------
