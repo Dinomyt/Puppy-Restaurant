@@ -3,6 +3,7 @@
 Team Members: 
 ---------------------
 Neng Lao  -  Designed Responsive Template used in all pages (navbar, footer, and background)  
+
           -  Created home.html page using bootstrap for responsiveness.  
 Tony Fernandez  
 Alejandro De La Cruz  
