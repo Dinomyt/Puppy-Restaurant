@@ -2,9 +2,9 @@
 
 Team Members
 ---------------------
-Neng Lao
-Tony Fernandez
-Alejandro De La Cruz
+Neng Lao  
+Tony Fernandez  
+Alejandro De La Cruz  
 ----------------------
 
 
