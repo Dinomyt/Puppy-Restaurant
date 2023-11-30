@@ -46,3 +46,35 @@ p {
     font-family: 'Montauk Regular', sans-serif;
 }
 
+.caterHero-image {
+    background-image: url("/imgs/cateringHero.jpg");
+  
+    height: 75%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
+    position: relative;
+  }
+
+  body, html {
+    height: 100%;
+}
+
+.caterBgWhite{
+    background-color: white;
+    width: 88%;
+    
+}
+.crtWhite{
+    background-color: white;
+}
+
+.ctrContainer{
+    width: 88%;
+    height: 75%
+}
+
+
+
+
