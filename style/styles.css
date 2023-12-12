@@ -53,8 +53,8 @@ p {
     
     background-position: center;
     background-repeat: no-repeat;
-    background-size:auto;
-    position: relative;
+    background-size:88%
+    /* position: relative; */
   }
 
   body, html {
@@ -75,6 +75,13 @@ p {
     height: 75%
 }
 
+.photorBgWhite{
+    background-color: white;
+    width: 88%;
+}
 
-
+.ctrContainer2{
+    width: 88%;
+    height:60%;
+}
 
