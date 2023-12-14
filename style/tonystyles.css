@@ -47,10 +47,10 @@
 .fooddescr-text{
     font-family: 'Montauk Light';
     color: #5F002B;
-    font-size: 20px;
+    font-size: 18px;
     padding-top: 0cap;
     margin-top: 0%;
-    padding-bottom: 0;
+    padding-bottom: 0px;
     margin-bottom: 0;
 }
 
@@ -63,9 +63,23 @@
 }
 
 .spacing{
-    margin: 0;
-    padding-top: 0%;
-    padding-bottom: 1px;
-    border-bottom: 2px solid; 
+     border-top: 1.5px solid; 
     color: #5F002B;
+    padding-bottom: 30px;
+}
+
+.pricing-text{
+    font-family: 'Montauk Light';
+    color: #5F002B;
+    font-size: 27px;
+}
+
+.foodtitledescr-text{
+    font-family: 'Montauk Light';
+    color: #5F002B;
+    font-size: 18px;
+    padding-top: 0cap;
+    margin-top: 0%;
+    padding-bottom: 30px;
+    margin-bottom: 0;
 }
