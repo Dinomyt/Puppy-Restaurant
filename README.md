@@ -21,7 +21,11 @@ Alejandro De La Cruz
 Peer Reviewers:  
 ---------------------
   
-  
+  Saroeut Sim
+  Johnny Pham
+  Julius Ponce De Leon
+
+  Their website worked perfectly and it looked exactly like the website that was given to us. The responsiveness was great on all the pages, overall a wonderful job!
 ---------------------
 
 
