@@ -48,8 +48,12 @@ p {
 }
 
 h1,h2{
-   color: #5F002B;
+    color: #5F002B;
     font-family: 'Fugaz One';
+}
+
+.navbar-nav a {
+    color: #5F002B; /* Replace with your desired color */
 }
 
 /* .caterHero-image {
